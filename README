@@ -1,0 +1,23 @@
+Netbee-Lite Documentation
+—————————————————————————
+
+The project is verified under Ubuntu 12.04 LTS.
+Minor revision might be necessary if you are using other versions or distributions of Linux.
+
+Pre-requisite
+    * ARM cross-compile toolchain installed
+    * bison flex g++ automake autoconf libtool installed
+
+Getting Started
+    1. Get netbee-lite source code
+	    $ git clone https://github.com/0x000fff/netbee-lite.git
+
+    2. Compile
+	    $ cd netbee-lite/src
+	    $ cmake .
+	    $ make
+    By now you have got the netbee libraries under netbee-lite/bin.
+
+Modification
+    This project inherits from Nbee (see at www.nbee.org), which only supports x86 platforms.
+    If you want to compile it on x86, just change the cross compile toolchain back to gcc/g++ in CMakeLists.txt.
