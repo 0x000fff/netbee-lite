@@ -1,6 +1,7 @@
 Netbee-Lite Documentation
 —————————————————————————
 
+Netbee-Lite is a network library supporting packet filtering, capturing and sniffing.
 The project is verified under Ubuntu 12.04 LTS.
 Minor revision might be necessary if you are using other versions or distributions of Linux.
 
