@@ -12,12 +12,11 @@ In order to create a new release of NetBee, you have to follow these steps:
     - createsrc.sh
 
 
-<!--
+
 Final Steps
 - Create the installer: launch script 'installer/installer-config.iss' to create the analyzer setup
 - Upload on the Analyzer website:
    - the setup
    - the source pack
-- Update all the website
--->
+- Update all the website  
    
