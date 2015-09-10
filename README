@@ -11,7 +11,7 @@ Pre-requisite
 
 Getting Started
     1. Get netbee-lite source code
-	    $ git clone https://github.com/0x000fff/netbee-lite.git
+	    $ git clone https://github.com/shawnsschen/netbee-lite.git
 
     2. Compile
 	    $ cd netbee-lite/src
